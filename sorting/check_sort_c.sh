@@ -7,6 +7,7 @@ if [[ $# != 1 ]]; then
     exit 1
 fi
 
+make
 ./gensort -a $1 data.$1
 ./sort data.$1 data.$1.sorted
 ./valsort data.$1.sorted
