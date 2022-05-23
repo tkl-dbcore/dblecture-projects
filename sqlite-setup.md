@@ -47,3 +47,9 @@ SQLite を起動するコマンド
 ```
 litecli imdb.sqlite3
 ```
+
+### note
+
+このページのURL: https://github.com/tkl-dbcore/dblecture-projects/blob/main/sqlite-setup.md
+
+![image](https://user-images.githubusercontent.com/22444/169811373-a2eb455c-88d0-4b56-a519-c6b231a32fe4.png)
