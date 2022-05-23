@@ -50,6 +50,7 @@ litecli imdb.sqlite3
 
 ### note
 
-このページのURL: https://github.com/tkl-dbcore/dblecture-projects/blob/main/sqlite-setup.md
+このページのURL: https://bit.ly/sqlite-setup
 
-![image](https://user-images.githubusercontent.com/22444/169811373-a2eb455c-88d0-4b56-a519-c6b231a32fe4.png)
+![image](https://user-images.githubusercontent.com/22444/169812253-6faf9da7-9cae-4e06-bf77-d91dd677a1af.png)
+
