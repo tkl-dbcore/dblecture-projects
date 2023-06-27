@@ -64,6 +64,7 @@ clean-top:
 #
 
 iotest: iotest.o
+	$(CC) $< -o $@ $(LDFLAGS)
 iotest.o: iotest.c iotest.h
 
 # end of Makefile
