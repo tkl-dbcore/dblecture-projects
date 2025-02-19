@@ -10,6 +10,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdint.h>
+#include <stddef.h>
 
 #define CHECK(var) \
   printf("  %18s: %8ld bytes long, %8s\n", \
